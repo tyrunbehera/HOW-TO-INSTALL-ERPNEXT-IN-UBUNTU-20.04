@@ -1,0 +1,19 @@
+Prerequisites
+
+Software Requirements
+Updated Ubuntu 20.04
+A user with sudo privileges
+Python 3.6+
+Node.js 12
+Redis 5
+MariaDB 10.3.x / Postgres 9.5.x
+yarn 1.12+
+pip 20+
+wkhtmltopdf (version 0.12.5 with patched qt)
+cron
+NGINX
+
+
+Hardware Requirements
+4GB RAM
+40GB Hard Disk
